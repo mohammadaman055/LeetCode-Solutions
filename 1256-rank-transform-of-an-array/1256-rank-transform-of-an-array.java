@@ -1,34 +1,25 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int [] newarr = new int[arr.length];
-        int i=0;
+         // Create a copy of the original array to sort
+        int[] sortedArr = arr.clone();
+        Arrays.sort(sortedArr);
 
-        for(int n : arr){
-            newarr[i]=n;
-            i++;
-        }
+        Map<Integer, Integer> rankMap = new HashMap<>();
+        int rank = 1;
 
-        Arrays.sort(newarr);
-
-        i=1;
-
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for(int n : newarr){
-            if(map.get(n)==null){
-                map.put(n,i);
-                i++;
+        // Assign ranks to unique values
+        for (int n : sortedArr) {
+            if (!rankMap.containsKey(n)) {
+                rankMap.put(n, rank++);
             }
-            // map.put(n, map.getOrDefault(n, i) + 0);
-            // i++;
         }
 
-        i=0;
-        for(int n:arr){
-            newarr[i]=map.get(n);
-            i++;
+        // Build the result array using the rank map
+        int[] result = new int[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            result[i] = rankMap.get(arr[i]);
         }
 
-        return newarr;
+        return result;
     }
 }
