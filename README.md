@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -74,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
