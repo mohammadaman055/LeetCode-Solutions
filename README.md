@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
