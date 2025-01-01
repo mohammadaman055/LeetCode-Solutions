@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
