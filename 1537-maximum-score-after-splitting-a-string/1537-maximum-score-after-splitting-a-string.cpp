@@ -1,3 +1,4 @@
+//my solution
 class Solution {
 public:
     int maxScore(string s) {
