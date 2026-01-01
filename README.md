@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0724-find-pivot-index](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohammadaman055/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
